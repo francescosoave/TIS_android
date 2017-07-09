@@ -1,4 +1,23 @@
 # The Italian Said (Android)
+
+# ITA
+
+# Proverbi italiani tradotti in inglese
+
+- Vuoi aggiungere un proverbio? Vai QUI
+
+- Play Store QUI
+
+- Alcune traduzioni non sono perfette e ci piace così. L'app vuole trasmettere il senso, ma anche il lato divertente del proverbio
+
+# dafare
+
+- aggiungere button per rimuovere i preferiti (un bottone per ogni riga della listView)
+- nwi preferiti, cambiare listView con ExpandableListView. Detect long press, espandere la riga e mostrare la versione inglese del testo
+
+
+# ENG
+
 # Italian proverbs translated to Engligh
 
 - Have a new proverb? Add it [HERE](https://docs.google.com/forms/d/e/1FAIpQLSe55nlSkoVMpx2d0KNisd2PEDkICRegIxJ3TOz-gwMffOv_Zg/viewform) 
