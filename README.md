@@ -4,9 +4,9 @@
 
 # Proverbi italiani tradotti in inglese
 
-- Vuoi aggiungere un proverbio? Vai QUI
+- Vuoi aggiungere un proverbio? Vai [QUI](https://docs.google.com/forms/d/e/1FAIpQLSe55nlSkoVMpx2d0KNisd2PEDkICRegIxJ3TOz-gwMffOv_Zg/viewform) 
 
-- Play Store QUI
+- Play Store [QUI](https://play.google.com/store/apps/details?id=italian.said.fran.theitaliansaid)
 
 - Alcune traduzioni non sono perfette e ci piace così. L'app vuole trasmettere il senso, ma anche il lato divertente del proverbio
 
