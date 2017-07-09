@@ -8,6 +8,8 @@
 
 - Play Store [QUI](https://play.google.com/store/apps/details?id=italian.said.fran.theitaliansaid)
 
+- f-droid -> in arrivo
+
 - Alcune traduzioni non sono perfette e ci piace così. L'app vuole trasmettere il senso, ma anche il lato divertente del proverbio
 
 # dafare
@@ -25,7 +27,7 @@
 
 - play store [HERE](https://play.google.com/store/apps/details?id=italian.said.fran.theitaliansaid)
 
-- f-droid -> soon?
+- f-droid -> soon
 
 - some translations are not literally perfect and it's ok. This app it's about the meaning and the "fun", not the grammar.
 
