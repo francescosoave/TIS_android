@@ -1,9 +1,9 @@
 # The Italian Said (Android)
 # Italian proverbs translated to Engligh
 
-- Have a new proverb? Add it here -> https://docs.google.com/forms/d/1wwfuNE3NRYn4aY3NCuA29bFGSOza3NFKCOYpM0LK_KM/edit
+- Have a new proverb? Add it [HERE](https://docs.google.com/forms/d/e/1FAIpQLSe55nlSkoVMpx2d0KNisd2PEDkICRegIxJ3TOz-gwMffOv_Zg/viewform) 
 
-- play store -> https://play.google.com/store/apps/details?id=italian.said.fran.theitaliansaid
+- play store [HERE](https://play.google.com/store/apps/details?id=italian.said.fran.theitaliansaid)
 
 - f-droid -> soon?
 
