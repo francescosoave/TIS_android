@@ -15,6 +15,7 @@
 - aggiungere button per rimuovere i preferiti (un bottone per ogni riga della listView)
 - nwi preferiti, cambiare listView con ExpandableListView. Detect long press, espandere la riga e mostrare la versione inglese del testo
 
+# #################################
 
 # ENG
 
