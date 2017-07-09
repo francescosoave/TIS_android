@@ -35,25 +35,23 @@
     <TextView
         android:id="@+id/tvEng"
         android:layout_width="0dp"
-        android:layout_height="240dp"
+        android:layout_height="250dp"
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@color/Eng"
         android:gravity="center"
+        android:padding="15dp"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="28sp"
-        android:padding="15dp"
-        app:layout_constraintBottom_toTopOf="@+id/btnInfo"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintLeft_toLeftOf="@+id/tvMain"
-        app:layout_constraintRight_toRightOf="@+id/tvMain"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="@+id/btnAddFav"
         app:layout_constraintTop_toTopOf="@+id/tvMain"
-        app:layout_constraintVertical_bias="1.0"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"/>
+        app:layout_constraintVertical_bias="0.82"/>
 
     <ToggleButton
         android:id="@+id/btnInfo"
@@ -75,28 +73,28 @@
     <TextView
         android:id="@+id/tvIta"
         android:layout_width="0dp"
-        android:layout_height="240dp"
+        android:layout_height="250dp"
         android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@color/Ita"
         android:gravity="center"
+        android:padding="15dp"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="28sp"
         android:textStyle="italic"
-        android:padding="15dp"
         app:layout_constraintBottom_toTopOf="@+id/tvEng"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintLeft_toLeftOf="@+id/tvMain"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle"
         app:layout_constraintVertical_bias="0.0"
         tools:layout_constraintRight_creator="1"
-        tools:layout_constraintTop_creator="1"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"/>
+        tools:layout_constraintTop_creator="1"/>
 
     <TextView
         android:id="@+id/tvTitle"
@@ -196,22 +194,21 @@
         android:background="@color/Trasparent"
         android:backgroundTint="@color/Trasparent"
         android:onClick="btnAddFav"
-        app:layout_constraintBottom_toTopOf="@+id/btnInfo"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="@+id/tvMain"
-        app:layout_constraintRight_toRightOf="@+id/tvMain"
-        app:layout_constraintTop_toBottomOf="@+id/tvTitle"
-        app:layout_constraintVertical_bias="0.516"
-        app:srcCompat="@drawable/star"/>
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@drawable/star"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"/>
 
     <italian.said.fran.theitaliansaid.StarView
         android:id="@+id/btnCheckFav"
         android:layout_width="85dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="7dp"
-        android:layout_marginLeft="0dp"
-        android:layout_marginRight="0dp"
-        android:layout_marginTop="0dp"
+        android:layout_marginRight="8dp"
         android:background="@color/Misc_Bg"
         android:backgroundTint="@color/Misc_Bg"
         android:onClick="clickFav"
@@ -222,7 +219,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/star"
-        />
+        android:layout_marginEnd="8dp"/>
 
     <!--<ImageButton-->
         <!--android:id="@+id/btnOpenFav"-->

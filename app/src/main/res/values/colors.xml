@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<color name="colorPrimary">#3c4f76</color>-->
-    <!--<color name="colorPrimaryDark">#3c4f76</color>-->
-    <!--<color name="colorAccent">#3c4f76</color>-->
-    <!--<color name="Eng">#ab9f9d</color>-->
-    <!--<color name="Ita">#d1beb0</color>-->
-    <!--<color name="Bg">#dddbf1</color>-->
-    <!--<color name="Main">#4bbff0</color>-->
-    <!--<color name="Red">#ff7793</color>-->
-    <!--<color name="Misc_Bg">#3c4f76</color>-->
-    <!--<color name="Action_Bar">#d1beb0</color>-->
-
     <color name="colorPrimary">#3c4f76</color>
     <color name="colorPrimaryDark">#3c4f76</color>
     <color name="colorAccent">#3c4f76</color>
@@ -22,16 +11,4 @@
     <color name="Misc_Bg">#3c4f76</color>
     <color name="Action_Bar">#3c4f76</color>
     <color name="Trasparent">#00ffffff</color>
-
-    <!--<color name="colorPrimary">#3c4f76</color>-->
-    <!--<color name="colorPrimaryDark">#3c4f76</color>-->
-    <!--<color name="colorAccent">#3c4f76</color>-->
-    <!--<color name="Eng">#A8DCD1</color>-->
-    <!--<color name="Ita">#65DEF1</color>-->
-    <!--<color name="Bg">#ffffff</color>-->
-    <!--<color name="Main">#4bbff0</color>-->
-    <!--<color name="Red">#ff7793</color>-->
-    <!--<color name="Misc_Bg">#F17F29</color>-->
-    <!--<color name="Action_Bar">#F17F29</color>-->
-
 </resources>

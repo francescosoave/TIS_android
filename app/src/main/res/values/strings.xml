@@ -3,6 +3,6 @@
     <string name="title">The Italian Said</string>
     <string name="btnInfoOn">Close</string>
     <string name="btnInfoOff">Info</string>
-    <string name="tvInfoIt">Conosci un proverbio che vuoi condividere? Clicca <a href="https://www.google.com">QUI</a></string>
-    <string name="tvInfoEn">Do you know a proverb and you wanna share it? Click here</string>
+    <string name="tvInfoIt">Conosci un proverbio che vuoi condividere? Scrivi a theitaliansaid@outlook.it</string>
+    <string name="tvInfoEn">Do you know a proverb and you wanna share it? Email theitaliansaid@outlook.it</string>
 </resources>
