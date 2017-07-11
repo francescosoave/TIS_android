@@ -2,7 +2,7 @@
 
 # ITA
 
-# Proverbi italiani tradotti in inglese
+# Proverbi italiani tradotti in (più o meno seriamente) inglese
 
 - Vuoi aggiungere un proverbio? Vai [QUI](https://docs.google.com/forms/d/e/1FAIpQLSe55nlSkoVMpx2d0KNisd2PEDkICRegIxJ3TOz-gwMffOv_Zg/viewform) 
 
