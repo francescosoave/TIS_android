@@ -1,4 +1,4 @@
-# The Italian Said (Android)
+![The Italian Said](https://1drv.ms/i/s!AqZ0V07JzdDymwf76syWVnrzqhpJ)
 
 # ITA
 
